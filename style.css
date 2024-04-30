@@ -1,0 +1,35 @@
+#form{
+    background: linear-gradient(45deg,dodgerblue,white);
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin:0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+input{
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+.food{
+    width: auto;
+    color: red;
+}
+.btn.btn-primary{
+margin-top: 7px;
+color: white;
+font-weight: bold;
+padding: 4px;
+background-color: black;
+}
+.btn.btn-primary:hover{
+   background-color: green;
+   color: white;
+    }
